@@ -73,7 +73,7 @@ docs/_build/
 
 # PyBuilder
 target/
-
+onlinecourse/migrations/
 # Jupyter Notebook
 .ipynb_checkpoints
 
